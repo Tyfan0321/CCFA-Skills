@@ -140,11 +140,13 @@ Alternatively, underline second-best with `\underline{}`. Do not bold AND underl
 
 ## Column-Width Awareness
 
-In two-column conference formats (ICLR, NeurIPS, ICML, CVPR, ICCV, ACL, EMNLP, AAAI, etc.), a single column is approximately7.0--8.0 cm wide. Every table must fit within this width. Before writing any table:
+ICLR 2027 uses a single-column layout. Read the actual `\linewidth` from the selected template; do not apply a generic two-column width to ICLR tables.
+
+For a template that actually uses two columns, a column may be approximately 7.0--8.0 cm wide, but its measured width governs. The following estimates are planning aids for those templates, not ICLR formatting requirements:
 
 1. Estimate the number of columns and their typical widths.
 2. If the table would exceed7.5 cm, plan for one of the fixes below.
-3. For tables with4+ columns, immediately plan for \\small\ or \\footnotesize\ and abbreviated headers.
+3. Abbreviate headers or adjust spacing when needed; reduce font size only if permitted and still readable. Column count alone does not require smaller text.
 
 A simple check: a column of numbers (e.g., \27.3\) needs about1.5 cm; a short word column (e.g., \Model\) needs about2.0 cm; a longer text column needs3.0+ cm. A three-column table \{l r r}\ fits easily. A five-column table \{l c c c c}\ often needs \\small\. A six-column table almost always needs \\small\ and abbreviated headers.
 

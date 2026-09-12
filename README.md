@@ -2,6 +2,8 @@
 
 <h1>CCFA Skills</h1>
 
+本 fork 已适配 [ICLR 2027](ccf-paper-writer/references/venue-guides/iclr2027.md)：官方原版模板、匿名审稿、按阶段计算页数及 AI 使用声明。使用时在任务中指定 `ICLR 2027`；已有项目模板和文件布局优先。安装时需同时保留 `ccf-common`、所选技能的相邻参考资源及 `ccf-latex-templates/ICLR/2027/`。
+
 **A skill family for shaping the research storyline of CCF-A papers.**
 
 [简体中文](README.md) · [English](README.en.md) · [繁體中文](README.zh-TW.md)
