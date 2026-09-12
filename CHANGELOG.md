@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased - ICLR 2027 adaptation
+
+- Replace the contradictory legacy ICLR guide with year routing and a verified 2027 conference guide covering anonymous review, stage-specific page budgets, AI disclosure, deadlines, and source conflicts.
+- Bundle all seven unmodified official 2027 template files and record official sources verified on 2026-09-12.
+- Route writing, scaffolding, review, and submission checks through the exact year/stage; correct the generic table guide's treatment of ICLR as a two-column format.
+- Preserve other venue guides, historical templates, runtime names, and plugin version. No installation or automatic update behavior changes.
+
 ## Unreleased - review refinement (version remains 0.10.0)
 
 - Use functional names in method introductions, skill descriptions, invocation prompts, and report titles while preserving source references, acknowledgments, quotations, and narrative context.

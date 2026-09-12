@@ -1033,3 +1033,39 @@ sources:
     verified_at: 2026-09-06
     stale_after_days: 365
     notes: Review findings for correctness, significance, and sufficient evidence; distinguish issue coverage from false accusations. Benchmark methodology reference only, not a high-star selection or a claim that CCFA ran this benchmark.
+  - id: iclr-2027-author-guidelines
+    title: ICLR 2027 Author Guidelines
+    url: https://iclr.cc/Conferences/2027/AuthorGuidelines
+    source_type: official_policy
+    used_by: [ccf-paper-writer, ccf-paper-reviewer, ccf-project-scaffolder, ccf-submission-checker]
+    recorded_at: 2026-09-12
+    verified_at: 2026-09-12
+    stale_after_days: 30
+    notes: Anonymity, stage-specific page limits, statements and submission requirements; legacy FAQ conflicts are documented in the 2027 guide.
+  - id: iclr-2027-ai-policy
+    title: ICLR 2027 AI Policy for Authors
+    url: https://iclr.cc/Conferences/2027/AIPolicyForAuthors
+    source_type: official_policy
+    used_by: [ccf-paper-writer, ccf-paper-reviewer, ccf-project-scaffolder, ccf-submission-checker]
+    recorded_at: 2026-09-12
+    verified_at: 2026-09-12
+    stale_after_days: 30
+    notes: Actual AI-use disclosure in the paper and submission form; author responsibility.
+  - id: iclr-2027-call-for-papers
+    title: ICLR 2027 Call for Papers
+    url: https://iclr.cc/Conferences/2027/CallForPapers
+    source_type: official_policy
+    used_by: [ccf-paper-writer, ccf-paper-reviewer, ccf-project-scaffolder, ccf-submission-checker]
+    recorded_at: 2026-09-12
+    verified_at: 2026-09-12
+    stale_after_days: 30
+    notes: Conference scope and abstract/full-paper deadlines in AoE.
+  - id: iclr-2027-style-files
+    title: ICLR 2027 Official LaTeX Style Files
+    url: https://media.iclr.cc/Conferences/ICLR2027/iclr-2027-style-files.zip
+    source_type: official_policy
+    used_by: [ccf-paper-writer, ccf-paper-reviewer, ccf-project-scaffolder, ccf-submission-checker]
+    recorded_at: 2026-09-12
+    verified_at: 2026-09-12
+    stale_after_days: 30
+    notes: Official unmodified assets in ccf-latex-templates/ICLR/2027; single-column layout and statement examples.

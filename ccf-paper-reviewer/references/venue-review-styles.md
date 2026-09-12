@@ -37,6 +37,8 @@ Review emphasis:
 
 ## ICLR
 
+For year/stage-specific format or submission requirements, follow [the ICLR guide](../../ccf-paper-writer/references/venue-guides/iclr.md). The dimensions below are general review guidance, not a verified current-year official scorecard.
+
 Primary dimensions: value to the community, new knowledge, soundness, novelty, significance, clarity, and discussion responsiveness.
 
 Review emphasis:
